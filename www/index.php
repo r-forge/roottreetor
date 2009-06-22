@@ -43,7 +43,7 @@ echo $contents; } ?>
 
 <!-- end of project description -->
 
-<p> No content added. </p>
+<p>The SVN respository here on R-forge will hold the latest version. See <a href="http://github.com/lyonsquark/RootTreeToR">http://github.com/lyonsquark/RootTreeToR</a> for other versions. If the download link on R-forge does not give you a proper package file, then instead download from the Github page.</p>
 
 <p> The <strong>project summary page</strong> you can find <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
 
